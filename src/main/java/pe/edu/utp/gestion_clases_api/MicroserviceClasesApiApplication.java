@@ -1,4 +1,4 @@
-package pe.edu.utp.gestion_clases_api.microservice_clases_api;
+package pe.edu.utp.gestion_clases_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,3 +11,5 @@ public class MicroserviceClasesApiApplication {
 	}
 
 }
+
+
